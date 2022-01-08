@@ -8,7 +8,7 @@
 						<div class="col-xl-3 col-lg-3 col-md-6">
 							<div class="footer-wrapper mb-30">
 								<div class="footer-logo">
-									<a href="index.html"><img src="img/logo/logo.png" alt="" /></a>
+									<a href="index.html"><img src="public/web/img/logo/logo.png" alt="" /></a>
 								</div>
 								<div class="footer-text">
 									<p>www.miportiilmenu.com é un gruppo di programmatori Free lancer, cui l'obiettivo
